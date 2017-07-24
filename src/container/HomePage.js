@@ -9,7 +9,7 @@ import {
     Col,
     Button
 } from 'antd';
-import {isEmptyObject} from '../util/CommonUtil';
+import {isEmptyObject} from '../utils/CommonUtil';
 import {getHomeAds} from '../actions/home';
 import {connect} from 'react-redux';
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';

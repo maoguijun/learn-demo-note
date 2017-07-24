@@ -80,7 +80,7 @@ class MyMenu extends Component{
             <Icon type={this.state.collapsed ? 'menu-unfold' : 'menu-fold'} onClick={this.toggle}/>
           </Header>
 
-          <Content style={{ margin: '24px 16px 0', overflow: 'initial' }}>
+          <Content style={{ margin: '24px 16px 0', overflow: 'auto' ,backgroundColor:"#E3E040"}}>
 
            {this.props.children}
 

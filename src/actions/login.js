@@ -1,4 +1,4 @@
-import {easyfetch} from '../util/NetUtil';
+import {easyfetch} from '../utils/NetUtil';
 export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
 export const LOGIN_FAILURE_OUR = 'LOGIN_FAILURE_OUR';
 

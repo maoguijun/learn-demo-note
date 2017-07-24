@@ -1,4 +1,4 @@
-import {easyfetch} from '../util/NetUtil';
+import {easyfetch} from '../utils/NetUtil';
 export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
 export const REGISTER_FAILURE_OUR = 'REGISTER_FAILURE_OUR';
 

@@ -1,4 +1,4 @@
-import {easyfetch} from '../util/NetUtil';
+import {easyfetch} from '../utils/NetUtil';
 export const GETHOMEADS_SUCCESS = 'GETHOMEADS_SUCCESS';
 export const GETHOMEADS_FAILURE = 'GETHOMEADS_FAILURE';
 
